@@ -17,3 +17,8 @@ machine learning study (AID)
 |1|1장|[노션](https://attractive-share-bc1.notion.site/1-2024-04-242b154be4fa448684f1937dd97aee34)|
 |1|2장|[노션](https://www.notion.so/hands-on-machine-learning-2-f9abe273f5454a9984c04fe1ed79b451?pvs=4)|
 |1|Grokking: Generalization...|[블로그](https://yunseong.tistory.com/entry/Grokking-Generalization-Beyond-Overfitting-on-Small-Algorithmic-Datasets-논문-리뷰)|
+|2|3장|...|
+|2|4장|...|
+|2|5장|...|
+|2|...|...|
+|2|RHO-1: Not All Tokens are...|[블로그](https://yunseong.tistory.com/entry/RHO-1-Not-All-Tokens-are-What-You-Need-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0)|
