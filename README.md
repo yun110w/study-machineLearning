@@ -14,6 +14,6 @@ machine learning study (AID)
 ## 발표 자료
 |주차|내용|링크|
 |---|----|---|
-|1|1장|...|
+|1|1장|[노션](https://attractive-share-bc1.notion.site/1-2024-04-242b154be4fa448684f1937dd97aee34)|
 |1|2장|[노션](https://www.notion.so/hands-on-machine-learning-2-f9abe273f5454a9984c04fe1ed79b451?pvs=4)|
 |1|Grokking: Generalization...|[블로그](https://yunseong.tistory.com/entry/Grokking-Generalization-Beyond-Overfitting-on-Small-Algorithmic-Datasets-논문-리뷰)|
