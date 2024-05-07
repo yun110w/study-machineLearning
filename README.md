@@ -15,5 +15,5 @@ machine learning study (AID)
 |주차|내용|링크|
 |---|----|---|
 |1|1장|...|
-|1|2장|[노션](https://www.notion.so/hands-on-machine-learning-2-f9abe273f5454a9984c04fe1ed79b451?pvs=4)|
-|1|Grokking: Generalization...|[블로그](https://yunseong.tistory.com/entry/Grokking-Generalization-Beyond-Overfitting-on-Small-Algorithmic-Datasets-논문-리뷰)|
+|1|2장|[![image](https://github.com/yun110w/study-machineLearning/assets/169134363/6ab3f4a1-8926-4f91-917f-f8c1860cd46b)
+|3|Grokking: Generalization...|[블로그](https://yunseong.tistory.com/entry/Grokking-Generalization-Beyond-Overfitting-on-Small-Algorithmic-Datasets-논문-리뷰)|
